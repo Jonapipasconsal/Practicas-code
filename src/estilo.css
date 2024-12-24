@@ -1,0 +1,22 @@
+h1 {
+    text-align: center; /*para centrar texto*/
+    border: 1px solid red; /*Para remarcar en la web html*/
+  color: white;
+}
+h2 {
+    text-align: center; /*para centrar texto*/
+    border: 1px solid green;
+
+  color: white;
+}
+div{
+    border: 1px solid yellow;
+}
+body {
+  background-color: black;
+  display: flex;
+  justify-content: center; /* Centra horizontalmente */
+  align-items: center;     /* Centra verticalmente */
+  height: 100vh;           /* 100% de la altura de la ventana */
+  margin: 0;               /* Elimina márgenes predeterminados */
+}
